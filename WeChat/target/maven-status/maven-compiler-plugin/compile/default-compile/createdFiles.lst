@@ -1,0 +1,12 @@
+wechat\service\MenuClickService.class
+wechat\utils\Constants.class
+wechat\module\AccessToken.class
+wechat\utils\PropertiesUtil.class
+wechat\utils\WeiXinUtil.class
+wechat\utils\JsSignUtil.class
+wechat\module\WeChat.class
+wechat\controller\WeChatController.class
+wechat\dao\WeChatMapper.class
+wechat\utils\MyX509TrustManager.class
+wechat\service\WeChatService.class
+wechat\module\WeChatEntity.class

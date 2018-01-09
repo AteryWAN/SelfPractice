@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: prod
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@devedu.hanboard.com.cn:11521:devbase
+    username: eduresource
+    password: eduresource
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+    database: oracle
